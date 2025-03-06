@@ -47,18 +47,14 @@ The Home screen displays the list of food items in a grid view, with each food i
 
 ## Live-Demo-
 
-[Food-Delivery-App-Live]()
-
 
 ## Steps to Run the App- 
 
 ### Getting Started with App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://github.com/parveet771/MyFirstFoodApp/edit/main/README.md).
+You can learn more about the app (https://github.com/parveet771/MyFirstFoodApp/edit/main/README.md).
 
 
 
