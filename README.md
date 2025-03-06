@@ -47,6 +47,15 @@ The Home screen displays the list of food items in a grid view, with each food i
 
 ## Live-Demo-
 
+## Screenshots
+
+### Homepage
+![Home page](images/main img.png)
+
+### Order Page
+![Order Page](images/main img.png)
+
+
 
 ## Steps to Run the App- 
 
