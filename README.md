@@ -50,10 +50,10 @@ The Home screen displays the list of food items in a grid view, with each food i
 ## Screenshots
 
 ### Homepage
-![Home page](images/main img.png)
+![Home page](images/main_img.png)
 
 ### Order Page
-![Order Page](images/main img.png)
+![Order Page](images/main_img.png)
 
 
 
